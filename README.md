@@ -3,7 +3,7 @@
 
 ## Disclaimer
 
-- Os passos a seguir assumem que você já possui um arquivo de texto com as strings para serem extraídas.
+- Os arquivos de texto com as strings estão na pasta **strings** do repositório.
 
 ## Passos para minerar
 
